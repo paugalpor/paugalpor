@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+welcome+to+my+profile;I'm+Pau+a+web+dev+student)](https://git.io/typing-svg)
+  <!--
 **paugalpor/paugalpor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
